@@ -1,0 +1,23 @@
+{
+  "name": "merde",
+  "version": "0.0.1",
+  "description": "Shit! All the other names I wanted were taken :(",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannguyen/merde.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Dan Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannguyen/merde/issues"
+  },
+  "homepage": "https://github.com/dannguyen/merde#readme"
+}
